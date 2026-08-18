@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minimumVersion": "1.0.0",
   "mandatory": false,
   "packageInfo": {
@@ -8,6 +8,8 @@
     "size": 463752961
   },
   "releaseNotes": [
-    "Teste do auto-update 1.0.2"
+    "Teste do auto-update 1.0.3",
+    "Runtime Java 17 embutida",
+    "Melhorias no pipeline de distribuição"
   ]
 }
