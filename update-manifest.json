@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimumVersion": "1.0.0",
   "mandatory": false,
   "packageInfo": {
@@ -8,6 +8,6 @@
     "size": 463752968
   },
   "releaseNotes": [
-    "RouteTruck 1.0.1"
+    "Teste do auto-update 1.0.2"
   ]
 }
